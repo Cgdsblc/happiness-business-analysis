@@ -50,7 +50,7 @@ This project analyzes the World Happiness Report dataset, exploring factors infl
 
 ## Future Steps
 - The analysis could be extended with additional datasets or refined visualizations.
-- Since the project was held around Business Analysis, Market Research, Competitive Analysis, SWOT Analysis, etc. should be done after the Data Analysis.
+- Since the project was held around Business Analysis; Market Research, Competitive Analysis, SWOT Analysis, etc. should be done after the Data Analysis.
 - Machine learning models could be explored for predictive analysis.
 
 ## Challenges Faced
