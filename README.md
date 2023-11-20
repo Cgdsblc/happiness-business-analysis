@@ -35,6 +35,8 @@ This project analyzes the World Happiness Report dataset, exploring factors infl
 - Created dashboards to showcase regional disparities, trends over time, and comparative analyses.
 - Added interactivity features in Tableau.
 
+![World Happiness Report](https://github.com/Cgdsblc/happiness-business-analysis/assets/66783609/450a1fdd-38f6-49dd-8adb-4aa74c705fdb)
+
 ## Results
 - Key findings and results are summarized in the respective analysis sections.
 - Detailed visualizations and interactive dashboards can be explored using the provided Tableau Workbook.
